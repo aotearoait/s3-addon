@@ -1,5 +1,5 @@
 {
-    "name": "Greg's Home Assistant Addons",
-    "url": "http://www.github.com/gdrapp/hass-addons",
+    "name": "Home Assistant Addons",
+    "url": "http://www.github.com/aotearoait/aotearoait/s3-addon",
     "maintainer": "Greg Rapp <gdrapp@gmail.com>"
 }

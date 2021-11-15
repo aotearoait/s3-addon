@@ -7,6 +7,6 @@ systems that have installed Home Assistant.
 
 ## Add-ons provided by this repository
 
-- **[Amazon S3 Backup](/amazon-s3-backup)**
+- **[Amazon S3 Backup](/s3-addon)**
     
     Backup your Home Assistant snapshots to Amazon S3.

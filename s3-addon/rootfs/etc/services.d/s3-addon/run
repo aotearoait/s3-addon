@@ -1,7 +1,7 @@
 #!/usr/bin/with-contenv bashio
 # ==============================================================================
 # Home Assistant Community Add-on: Amazon S3 Backup
-# Runs amazon-s3-backup.py script
+# Runs s3-addon.py script
 # ==============================================================================
 
 bashio::log.info "Starting Amazon S3 Backup..."
